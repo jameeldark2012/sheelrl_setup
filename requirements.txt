@@ -4,7 +4,6 @@ absl-py==2.1.0
 async-timeout==4.0.3
 atari-py==0.2.9
 attrs==24.2.0
-box2d==2.3.10
 certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
@@ -77,9 +76,9 @@ tensorboard-data-server==0.7.2
 tensorboardX==2.6.2.2
 tifffile==2024.8.30
 tomli==2.0.1
-torch==2.4.1+cu121
 tqdm==4.66.5
 typing-extensions==4.12.2
 urllib3==2.2.2
 werkzeug==3.0.4
 zipp==3.20.1
+sheeprl==0.5.7
